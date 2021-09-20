@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CircularArrayQueue
+comment1.params=
+comment1.target=CircularArrayQueue()
+comment2.params=element
+comment2.target=void\ enqueue(java.lang.Object)
+comment3.params=
+comment3.target=void\ expandCapacity()
+numComments=4
