@@ -1,12 +1,8 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: 
+Polarizing Activity of Russian Twitter Accounts Leading up to the United States 2016 Presidential Election
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PURPOSE OF PROJECT: The problem we sought to understand is the interconnectivity between the false stories and the Russian Accounts on Twitter (RATs)  that share them. By examining this network, we can find valuable information on the behavior and patterns of these accounts. 
+
+VERSION or DATE: December 9th, 2019
+AUTHORS: Sarah Pardo and Panya Tang
+
